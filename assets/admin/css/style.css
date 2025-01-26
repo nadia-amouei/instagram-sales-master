@@ -1,0 +1,16 @@
+.select2 {
+    min-width: 150px;
+}
+.create_order_section{
+    margin: 10px 0;
+}
+.redirect-btn{
+    margin: 10px 0;
+}
+.section{
+    margin: 10px 0;
+}
+#copied{
+    display: none;
+    padding: 5px 0;
+}

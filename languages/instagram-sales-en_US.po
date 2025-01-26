@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-08-22 10:09+0430\n"
+"PO-Revision-Date: 2021-08-22 10:33+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-admin-order-meta-box.php:25
+msgid "لینک پرداخت سفارش"
+msgstr "Order Payment Link"
+
+#: includes/admin/class-admin-order-meta-box.php:39
+msgid "لینک پرداخت"
+msgstr "Payment Link"
+
+#: includes/admin/class-admin-order-meta-box.php:42
+msgid "در کلیپ بورد کپی شد"
+msgstr "copy to clipboard"
+
+#: includes/config/class-initial-value.php:14
+#: includes/config/class-initial-value.php:15
+msgid "لینک فروش در اینستاگرام"
+msgstr "link of sales on instagram"
+
+#: includes/config/class-initial-value.php:28
+#: includes/config/class-initial-value.php:29
+msgid "سفارشات"
+msgstr "orders"
+
+#: includes/config/class-initial-value.php:40
+#: includes/config/class-initial-value.php:41
+msgid "محصولات"
+msgstr "products"
+
+#: includes/functions/class-utility.php:28
+msgid "فایل مورد نظر یافت نشد!"
+msgstr "file not found!"
+
+#: instagram-sales.php:84
+msgid "برای فعالسازی این افزونه باید افزونه ووکامرس فعال باشد."
+msgstr "To activate this plugin woocommerce should be install and activate."
+
+#: instagram-sales.php:86
+msgid "بازگشت به لیست افزونه ها"
+msgstr "return to plugins"
+
+#: templates/admin/create-product-page.php:13
+#: templates/admin/instagram-setting.php:25
+msgid "لینک فروش اینستاگرام"
+msgstr "instagram sale link"
+
+#: templates/admin/create-product-page.php:16
+msgid "جزئیات صورتحساب"
+msgstr "checkout details"
+
+#: templates/admin/create-product-page.php:20
+#: templates/admin/instagram-setting.php:36
+msgid "انتخاب کاربر"
+msgstr "select user"
+
+#: templates/admin/create-product-page.php:35
+msgid "نام"
+msgstr "name"
+
+#: templates/admin/create-product-page.php:43
+msgid "نام خانوادگی"
+msgstr "family"
+
+#: templates/admin/create-product-page.php:51
+msgid "نام شرکت"
+msgstr "company name"
+
+#: templates/admin/create-product-page.php:59
+msgid "کشور"
+msgstr "country"
+
+#: templates/admin/create-product-page.php:67
+msgid "آدرس خیابان"
+msgstr "address"
+
+#: templates/admin/create-product-page.php:75
+msgid "آپارتمان، مجتمع، واحد و... (اختیاری)"
+msgstr "address 2"
+
+#: templates/admin/create-product-page.php:83
+msgid "شهر"
+msgstr "city"
+
+#: templates/admin/create-product-page.php:91
+msgid "استان"
+msgstr "provience"
+
+#: templates/admin/create-product-page.php:99
+msgid "کد پستی"
+msgstr "post code"
+
+#: templates/admin/create-product-page.php:107
+msgid "تلفن"
+msgstr "tel"
+
+#: templates/admin/create-product-page.php:115
+msgid "آدرس ایمیل"
+msgstr "email"
+
+#: templates/admin/create-product-page.php:123
+msgid "روش پرداخت"
+msgstr "payment method"
+
+#: templates/admin/instagram-setting.php:33
+msgid "فعال سازی ایجاد سفارش برای کاربر"
+msgstr "Enable order creation for user"
+
+#: templates/admin/instagram-setting.php:39
+msgid "کاربر مهمان"
+msgstr "gust user"
+
+#: templates/admin/instagram-setting.php:53
+msgid "ذخیره"
+msgstr "save"
+
+#: templates/admin/instagram-setting.php:62
+msgid "شروع ساخت سفارش"
+msgstr "start making the order"
